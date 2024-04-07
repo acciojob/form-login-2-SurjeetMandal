@@ -9,6 +9,6 @@ btn.addEventListener("click",function(event) {
 	var c = document.getElementById('Phone_number').value;
 	var d = document.getElementById('Email_ID').value;
 	
-	alert("First Name: " + a + "Last Name: " + b + "Phone Number: " + c + "Email ID: " + d);
+	alert("First Name: " + a +' '+ "Last Name: " + b +' ' + "Phone Number: " + c +' ' + "Email ID: " + d);
 })
 
